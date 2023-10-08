@@ -8,7 +8,7 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix ./client",
-    "dev": "echo \"No build specified\" && exit 1""
+    "dev": "echo \"No build specified\" && exit 1"
   },
   "keywords": [],
   "author": "mh",
